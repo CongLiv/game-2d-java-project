@@ -1,4 +1,4 @@
 # game-2d-java-project
-eclipse project
-Java project made by Vu Thanh Cong
-Member of NEU Information Technology Club - NITC
+<h2>eclipse project<h2>
+<p>Java project made by Vu Thanh Cong<p>
+<p>Member of NEU Information Technology Club - NITC<p>
