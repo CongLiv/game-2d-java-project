@@ -4,14 +4,14 @@
 <p>This is my first Java game project. The project is part of the Java project competition - "Java Project" of the Programming Department - NEU Information Technology Club - NITC.</p>
 
 <h3>Game mechanic</h3>
-- The player has a healing time and an attack cooldown.<p>
-- Entities in the game (both player and monsters) have a damage blocking rate.<p>
-- Monsters will be randomly spawned on each map, depending on their difficulty level.<p>
+- The player has a healing time and an attack cooldown.
+- Entities in the game (both player and monsters) have a damage blocking rate.
+- Monsters will be randomly spawned on each map, depending on their difficulty level.
 - I used the A* pathfinding algorithm so that the monsters could chase the player
 
 <h3>Tech and credit</h3>
-- Only use Java Swing.<p>
-- Thanks for 2D game tutorial on RyiSnow Youtube channel!<p>
+- Only use Java Swing.
+- Thanks for 2D game tutorial on RyiSnow Youtube channel!
 - In-game graphics are collected from many free graphic pack on the internet.
 
 <h3>Preview</h3>
